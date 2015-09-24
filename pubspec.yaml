@@ -1,0 +1,11 @@
+name: tiles_sitemap
+version: 0.1.0
+author: Jakuub Uhrik <jakuub@mail.com>
+description: The extension for tiles library to provide sitemap(.org for now) components to enable sitemap generation by tiles.
+homepage: https://github.com/jakuub/tiles_sitemap
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+dependencies:
+  tiles: any
+dev_dependencies:
+  test: '>=0.12.0 <0.13.0'
